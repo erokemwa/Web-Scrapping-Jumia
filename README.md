@@ -1,1 +1,1 @@
-# Web-Scrapping-Jumia
+# Web Scrapping - Jumia
